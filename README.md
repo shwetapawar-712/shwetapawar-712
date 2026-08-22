@@ -224,31 +224,7 @@
   </a>
 </p>
 
-<p align="left">
-  <a href="https://appwrite.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" width="40" height="40" alt="Appwrite"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
-  </a>
-</p>
 
----
-
-<h3 align="left">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shwetapawar-712&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="180"/>
-  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=shwetapawar-712&show_icons=true&locale=en" alt="GitHub Stats" height="180"/>
 </p>
 
