@@ -40,7 +40,6 @@
 
 <h2>🛠️ Tech Stack</h2>
 
----
 
 ### 💻 Programming Languages
 
