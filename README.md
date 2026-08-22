@@ -118,20 +118,6 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=shwetapawar-712&show_icons=true&locale=en"
-    alt="Shweta's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=shwetapawar-712&show_icons=true&locale=en&layout=compact"
-    alt="Shweta's Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=shwetapawar-712"
     alt="Shweta's GitHub Streak"
   />
