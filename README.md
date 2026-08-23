@@ -20,7 +20,7 @@
 
 <p align="left">
   <a href="https://twitter.com/pawar_shweta027" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pawar_shweta027" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pawar_shweta027" height="30" width="30" />
   </a>
 
   <a href="https://linkedin.com/in/shweta-pawar-368820322" target="_blank">
