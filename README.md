@@ -27,10 +27,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shweta-pawar-368820322" height="30" width="40" />
   </a>
 
-  <a href="https://instagram.com/pawar_shweta17" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pawar_shweta17" height="30" width="40" />
-  </a>
-
   <a href="https://www.leetcode.com/shweta_pawar01" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shweta_pawar01" height="30" width="40" /> 
   </a> 
