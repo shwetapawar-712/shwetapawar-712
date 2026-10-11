@@ -24,28 +24,43 @@
 </p>
 
 ---
+### 🏆 Achievements & Recognition
 
+- 🥇 **1st Prize — Prompt Rush Vibe Coding Competition** among 40 teams
+- 🚀 **Top 4 Teams — TechSprint, GCOEN Hacks** among 40 teams
+- 💻 **Top 15 Teams — Swalambh Hackathon** among 890+ teams
+
+---
 ### 🛠️ Tech Stack
 
+---
 #### 💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python" height="42" alt="C, C++, JavaScript, TypeScript, Python"/>
 </p>
+
+---
 
 #### 🎨 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,sass" height="42" alt="HTML, CSS, React, Next.js, Tailwind CSS, Sass"/>
 </p>
 
+----
+
 #### ⚙️ Backend & Database
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" height="42" alt="Node.js, Express, MongoDB, MySQL, PostgreSQL, Firebase"/>
 </p>
 
+---
+
 #### 🔧 Tools & Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" height="42" alt="Git, GitHub, Linux, VS Code"/>
 </p>
+
+----
 
 <h3 align="center">📊 GitHub Stats</h3>
 
