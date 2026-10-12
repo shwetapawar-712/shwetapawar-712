@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Developer | DSA Enthusiast | Open Source Contributor</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shwetapawar-712&label=Profile%20views&color=0e75b6&style=flat" alt="shwetapawar-712" />
+  <img src="https://komarev.com/ghpvc/?username=shwetapawar-712&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/0*yBvA5CnEX3Sd4aod.gif">
