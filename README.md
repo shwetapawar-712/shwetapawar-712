@@ -64,9 +64,10 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
+
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shwetapawar-712"
+  <img
+    src="https://streak-stats.demolab.com?user=shwetapawar-712&theme=dark"
     alt="Shweta's GitHub Streak"
   />
 </p>
